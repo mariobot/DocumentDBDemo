@@ -33,6 +33,8 @@ namespace DocumentDBWeb
                 app.UseDeveloperExceptionPage();
             }
 
+            DocumentDBRepository<DocumentDBWeb.Model.Item>.Initialize();
+
             //app.Run(async (context) =>
             //{
             //    await context.Response.WriteAsync("Hello World!");

@@ -9,7 +9,6 @@ C:\Users\mabotero\source\repos\DocumentDBDemo\DocumentDBWeb\obj\Debug\netcoreapp
 C:\Users\mabotero\source\repos\DocumentDBDemo\DocumentDBWeb\obj\Debug\netcoreapp2.1\DocumentDBWeb.AssemblyInfo.cs
 C:\Users\mabotero\source\repos\DocumentDBDemo\DocumentDBWeb\obj\Debug\netcoreapp2.1\DocumentDBWeb.RazorTargetAssemblyInfo.cache
 C:\Users\mabotero\source\repos\DocumentDBDemo\DocumentDBWeb\bin\Debug\netcoreapp2.1\DocumentDBWeb.pdb
-C:\Users\mabotero\source\repos\DocumentDBDemo\DocumentDBWeb\obj\Debug\netcoreapp2.1\DocumentDBWeb.csprojAssemblyReference.cache
 C:\Users\mabotero\source\repos\DocumentDBDemo\DocumentDBWeb\obj\Debug\netcoreapp2.1\DocumentDBWeb.dll
 C:\Users\mabotero\source\repos\DocumentDBDemo\DocumentDBWeb\obj\Debug\netcoreapp2.1\DocumentDBWeb.pdb
 C:\Users\mabotero\source\repos\DocumentDBDemo\DocumentDBWeb\bin\Debug\netcoreapp2.1\DocumentDBWeb.Views.dll
@@ -21,3 +20,11 @@ C:\Users\mabotero\source\repos\DocumentDBDemo\DocumentDBWeb\obj\Debug\netcoreapp
 C:\Users\mabotero\source\repos\DocumentDBDemo\DocumentDBWeb\obj\Debug\netcoreapp2.1\DocumentDBWeb.RazorTargetAssemblyInfo.cs
 C:\Users\mabotero\source\repos\DocumentDBDemo\DocumentDBWeb\obj\Debug\netcoreapp2.1\DocumentDBWeb.Views.pdb
 C:\Users\mabotero\source\repos\DocumentDBDemo\DocumentDBWeb\obj\Debug\netcoreapp2.1\DocumentDBWeb.csproj.CopyComplete
+C:\Users\mabotero\source\repos\DocumentDBDemo\DocumentDBWeb\obj\Debug\netcoreapp2.1\DocumentDBWeb.csprojAssemblyReference.cache
+C:\Users\mabotero\source\repos\DocumentDBDemo\DocumentDBWeb\bin\Debug\netcoreapp2.1\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\mabotero\source\repos\DocumentDBDemo\DocumentDBWeb\bin\Debug\netcoreapp2.1\DocumentDB.Spatial.Sql.dll
+C:\Users\mabotero\source\repos\DocumentDBDemo\DocumentDBWeb\obj\Debug\netcoreapp2.1\Razor\Views\Item\Index.g.cshtml.cs
+C:\Users\mabotero\source\repos\DocumentDBDemo\DocumentDBWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\mabotero\source\repos\DocumentDBDemo\DocumentDBWeb\obj\Debug\netcoreapp2.1\Razor\Views\Item\Create.g.cshtml.cs
+C:\Users\mabotero\source\repos\DocumentDBDemo\DocumentDBWeb\obj\Debug\netcoreapp2.1\Razor\Views\Item\Edit.g.cshtml.cs
+C:\Users\mabotero\source\repos\DocumentDBDemo\DocumentDBWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ViewImports.g.cshtml.cs

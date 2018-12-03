@@ -19,7 +19,7 @@ namespace DocumentDBDemo
         {
             try
             {
-                CreateDocumentClient().Wait();
+                CreateDocumentClient();
             }
             catch (Exception e)
             {
@@ -30,7 +30,7 @@ namespace DocumentDBDemo
             Console.ReadKey();
         }
 
-        private static async Task CreateDocumentClient()
+        private static void CreateDocumentClient()
         {
             // Create a new instance of the DocumentClient
             using (var client = new DocumentClient(new Uri(EndpointUrl), AuthorizationKey))
