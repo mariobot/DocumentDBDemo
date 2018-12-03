@@ -69,5 +69,17 @@ namespace DocumentDBDemo
             Console.WriteLine();
             Console.WriteLine("Total databases: {0}", databases.Count);
         }
+
+        private async static Task DeleteDatabase(DocumentClient client)
+        {
+            Console.WriteLine();
+            Console.WriteLine("******** Delete Database ********");
+
+            Database database = client
+               .CreateDatabaseQuery("SELECT * FROM c WHERE c.id = 'tempdb1'")
+               .AsEnumerable()
+               .First();
+            await client.DeleteDatabaseAsync(database.SelfLink);
+        }
     }
 }

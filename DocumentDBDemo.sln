@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentDBDemo", "DocumentDBDemo\DocumentDBDemo.csproj", "{F57B8B91-CA88-4B0E-849F-C1CE52D568C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentDBWeb", "DocumentDBWeb\DocumentDBWeb.csproj", "{82E39A45-070E-4ED2-9217-AA2D21D816C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F57B8B91-CA88-4B0E-849F-C1CE52D568C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F57B8B91-CA88-4B0E-849F-C1CE52D568C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F57B8B91-CA88-4B0E-849F-C1CE52D568C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E39A45-070E-4ED2-9217-AA2D21D816C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E39A45-070E-4ED2-9217-AA2D21D816C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E39A45-070E-4ED2-9217-AA2D21D816C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E39A45-070E-4ED2-9217-AA2D21D816C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
